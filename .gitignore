@@ -1,0 +1,11 @@
+*.bak
+*.dat
+*.DS_Store
+*.log
+*.pdf
+__pycache__
+*.pyc
+*.swp
+*.swo
+*~
+.idea
